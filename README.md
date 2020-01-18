@@ -1,5 +1,3 @@
-# periodicals_embedding
-
 This repository hosts the code to reproduce results shown in the following paper:
 
 
